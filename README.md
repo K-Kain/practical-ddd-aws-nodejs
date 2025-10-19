@@ -4,7 +4,7 @@
 
 ## ダウンロード
 
-[Download v0.1.0](https://github.com/<OWNER>/<REPO>/releases/download/v0.1.0/ddd-aws-nodejs-samples.zip)
+[Download v0.1.0](https://github.com/K-Kain/practical-ddd-aws-nodejs/releases/download/v0.1.0/ddd-aws-nodejs-samples.zip)
 
 
 DDD×AWS（DynamoDB / Lambda / EventBridge / API Gateway）の最小サンプルを **Docker だけ**で動かします。  
