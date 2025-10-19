@@ -1,5 +1,12 @@
 # ddd-aws-nodejs-samples (Docker Only)
 
+---
+
+## ダウンロード
+
+- **最新 (常に最新のZIPを指す)**  
+  [Download ZIP (latest)](https://github.com/<OWNER>/<REPO>/releases/latest/download/ddd-aws-nodejs-samples.zip)
+
 DDD×AWS（DynamoDB / Lambda / EventBridge / API Gateway）の最小サンプルを **Docker だけ**で動かします。  
 AWSアカウント／資格情報の設定は不要です。
 
