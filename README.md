@@ -6,7 +6,7 @@
 - 最新版（ZIP）
   - 基本サンプル一式：  
     [ddd-aws-nodejs-samples.zip](https://github.com/K-Kain/practical-ddd-aws-nodejs/releases/latest/download/ddd-aws-nodejs-samples.zip)
-  - 4層本番形スターター：  
+  - 4層本番形スターター(動作方法は内部にあるreadMeに記載)：  
     [ddd-4layer-demo.zip](https://github.com/K-Kain/practical-ddd-aws-nodejs/releases/latest/download/ddd-4layer-demo.zip)
 
 
