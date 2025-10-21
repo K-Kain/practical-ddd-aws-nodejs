@@ -3,7 +3,12 @@
 ---
 
 ## ダウンロード
-[Download v0.1.0](https://github.com/K-Kain/practical-ddd-aws-nodejs/releases/download/v0.1.0/ddd-aws-nodejs-samples.zip)
+- 最新版（ZIP）
+  - 基本サンプル一式：  
+    [ddd-aws-nodejs-samples.zip](https://github.com/K-Kain/practical-ddd-aws-nodejs/releases/latest/download/ddd-aws-nodejs-samples.zip)
+  - 4層本番形スターター：  
+    [ddd-4layer-demo.zip](https://github.com/K-Kain/practical-ddd-aws-nodejs/releases/latest/download/ddd-4layer-demo.zip)
+
 
 ## 付録ダウンロード
 - すべてまとめて: [appendices-all.zip](https://github.com/K-Kain/practical-ddd-aws-nodejs/releases/latest/download/appendices-all.zip)
